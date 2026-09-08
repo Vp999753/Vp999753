@@ -10,7 +10,7 @@ I focus on turning ideas into **working, documented and deployable applications*
 
 ## 🧑‍💻 About Me
 
-* 🎓 Computer Science Engineering Student at **VIT Bhopal**
+* 🎓 Computer Science Engineering Student at **Vellore Institute of Technology, Bhopal**
 * 💻 Interested in **Software Engineering & Backend Development**
 * 🌱 Currently strengthening **Java, Spring Boot, Python and Full-Stack Development**
 * 🚀 Building projects that solve practical problems
@@ -114,13 +114,7 @@ An image caption generation system that combines computer vision and sequence mo
 
 ---
 
-### 📚 Library Management System
 
-**Java • Spring Boot • Maven**
-
-A Spring Boot based application demonstrating layered development, dependency injection and backend application structure.
-
----
 
 ## 📈 What I'm Currently Working On
 
@@ -144,11 +138,10 @@ I believe projects are more valuable when they demonstrate not only that somethi
 
 ## 📫 Connect With Me
 
-📧 Email: Add your professional email here
+📧 Email: vaibhavipathak04@gmail.com
 
-💼 LinkedIn: Add your LinkedIn profile here
+💼 LinkedIn: www.linkedin.com/in/vaibhavi-pathak-90454b2b3
 
-🌐 Portfolio: Add your portfolio here
 
 ---
 
